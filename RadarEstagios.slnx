@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RadarEstagios.Cli/RadarEstagios.Cli.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RadarEstagios.Tests/RadarEstagios.Tests.csproj" />
+  </Folder>
+</Solution>
